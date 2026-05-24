@@ -5,7 +5,7 @@
 > 基于 Kaggle 公开数据集，完整还原从数据清洗、建模到可视化的电商分析全流程。  
 > 数据范围：**2016-09 ~ 2018-08**｜工具栈：**MySQL · Python · Tableau**
 
-**最终报告请见**:https://github.com/yangmanqi2104201431-ship-it/olist_data/blob/main/Olist%E7%94%B5%E5%95%86%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A_%E6%A0%BC%E5%BC%8F%E7%BB%9F%E4%B8%80.pdf
+**最终报告请见**:Olist电商数据分析报告_格式统一.pdf
 
 ---
 
