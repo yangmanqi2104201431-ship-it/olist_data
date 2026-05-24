@@ -1,0 +1,8 @@
+"segment","customers","avg_recency_days","avg_frequency","avg_monetary"
+New Customers,35342,89.0645,1.0000,164.499214
+At Risk,19720,320.8592,1.0544,170.093382
+Potential Loyalist,16670,223.9820,1.0397,155.720564
+Others,12454,417.8156,1.0059,220.617317
+Hibernating,7561,475.6122,1.0000,55.356799
+Champions,984,87.7673,2.1829,372.769482
+Loyal,627,120.8437,1.2376,196.193381
